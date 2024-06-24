@@ -1,0 +1,41 @@
+{
+    "Menu":      [
+                  {
+                   "id": 1,
+                    "productName": "Hand Filer",
+                    "category": "Nail Tools",
+                   " description": "100/180 grit hand file suitable for nail-prep",
+                    "amount": 20,
+                    "img_url": "http://thuthuzaposwayo.github.io/All-images/images/nail-file.jpg"
+                },
+
+                {
+                    "id": 2,
+                    "productName": "Rechargeable UV Lamp",
+                    "category": "Nail Tools",
+                   " description": "Allows you to cure and dry gel products on nail",
+                    "amount": 800,
+                    "img_url": "https://thuthuzaposwayo.github.io/All-images/images/newinlamp.jpg"
+                },
+
+              {
+                "id": 3,
+                "productName": "SUN UV Lamp",
+                "category": "Nail Tools",
+               " description": "Allows you to cure and dry gel products on nail",
+                "amount": 600,
+                "img_url": "https://thuthuzaposwayo.github.io/All-images/images/images/lamp.jpg"
+
+            },
+            
+            {
+            "id": 4,
+                    "productName": "DIY Gel Set",
+                    "category": "Nail Gel",
+                   " description": "Gel products you can use by self",
+                    "amount": 500,
+                    "img_url": "https://thuthuzaposwayo.github.io/All-images/images/oil.jpg"
+            }
+            ]
+    
+        }
